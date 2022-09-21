@@ -8,7 +8,7 @@ After years of customer service experience, I invested in my passion for coding 
 
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my portfolio at [this website](https://daliangrullon.github.io/my-portfolio/)
-* ✉️  You can contact me at [dalian.business@aol.com](mailto:dalian.business@aol.com)
+* ✉️  You can contact me at [my email](mailto:dalian.business@aol.com)
 * 🧠  I'm currently learning TypeScript, AWS, and Docker
 * 🤝  I'm open to collaborating on any projects!
 
