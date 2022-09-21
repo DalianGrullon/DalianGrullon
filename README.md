@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Full Stack Developer
 -----------------
 
-After years of customer service experience, I invested in my passion for coding by enrolling in the University of Central Florida's full-stack coding boot camp.
+After years of customer service experience, I invested in my passion for coding by enrolling in the University of Central Florida's Full Stack Coding Boot Camp.
 
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my portfolio at [this website](http://https://daliangrullon.github.io/my-portfolio/)
