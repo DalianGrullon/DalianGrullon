@@ -7,7 +7,7 @@ Software Engineer | Full Stack Developer
 After years of customer service experience, I invested in my passion for coding by enrolling in the University of Central Florida's Full Stack Coding Boot Camp.
 
 * 🌍  I'm based in Orlando, FL
-* 🖥️  See my portfolio at [this website](http://https://daliangrullon.github.io/my-portfolio/)
+* 🖥️  See my portfolio at [this website](https://daliangrullon.github.io/my-portfolio/)
 * ✉️  You can contact me at [dalian.business@aol.com](mailto:dalian.business@aol.com)
 * 🧠  I'm currently learning TypeScript, AWS, and Docker
 * 🤝  I'm open to collaborating on Any projects that need a backend!
