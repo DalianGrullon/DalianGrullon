@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dalian Grullon
 ======================================================================================================================================
 
-Full Stack Software Engineer
+Front End Developer
 -----------------
 
 After years of customer service experience, I invested in my passion for coding by enrolling in the University of Central Florida's Full Stack Coding Boot Camp. I am now actively pursuing a career in software engineering while simultaneously continuing my studies in Software Engineering.
@@ -9,7 +9,7 @@ After years of customer service experience, I invested in my passion for coding 
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my portfolio at [this website](https://daliangrullon.github.io/my-portfolio/)
 * ✉️  You can contact me at [my email](mailto:dalian.business@aol.com)
-* 🧠  I'm currently learning Java and Spring
+* 🧠  I'm currently learning React and React Native
 * 🤝  I'm open to collaborating on any projects!
 
 ### Skills
