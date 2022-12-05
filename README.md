@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 -----------------
 
-After years of customer service experience, I invested in my passion for coding by enrolling in the University of Central Florida's Full Stack Coding Boot Camp. I am now actively pursuing a career in software engineering while simultaneously continuing my studies in Software Engineering.
+After years of customer service experience, I invested in my passion for coding by enrolling in the University of Central Florida's Full Stack Coding Boot Camp. I am now actively pursuing a career in software engineering while simultaneously continuing my studies in Computer Science at Arizona State University Online.
 
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my portfolio at [this website](https://daliangrullon.github.io/my-portfolio/)
@@ -41,5 +41,3 @@ After years of customer service experience, I invested in my passion for coding 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/daliangrullon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daliangrullon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/daliangrullon"><img src="https://activity-graph.herokuapp.com/graph?username=daliangrullon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
