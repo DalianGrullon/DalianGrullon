@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dalian Grullon
 ======================================================================================================================================
 
-Full Stack Developer
+Web Developer
 -----------------
 
-After years of customer service experience, I invested in my passion for coding by enrolling in the University of Central Florida's Full Stack Coding Boot Camp. I am now actively pursuing a career in software engineering while simultaneously continuing my studies in Computer Science at Arizona State University Online.
+After years of customer service experience, I invested in my passion for coding by enrolling in the University of Central Florida's Full Stack Coding Boot Camp. I am now actively pursuing a career in web development while simultaneously continuing my studies in Computer Science at Arizona State University Online.
 
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my portfolio at [this website](https://daliangrullon.github.io/my-portfolio/)
