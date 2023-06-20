@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 -----------------
 
-After years of customer service experience, I invested in my passion for coding by enrolling in the University of Central Florida's Full Stack Coding Boot Camp. I am now actively pursuing a career in software engineering while simultaneously continuing my studies in Computer Science.
+After years of customer service experience, I invested in my passion for coding by enrolling in the University of Central Florida's Full Stack Coding Boot Camp. I am now actively pursuing a career in software engineering while simultaneously continuing my studies in Software Engineering @ASUOnline.
 
-* 🌍  I'm based in Orlando, FL
+* 🌍  I'm based in Whitestown, IN
 * 🖥️  See my portfolio at [this website](https://daliangrullon.github.io/my-portfolio/)
 * ✉️  You can contact me at [my email](mailto:dalian.business@aol.com)
 * 🤝  I'm open to collaborating on any projects!
