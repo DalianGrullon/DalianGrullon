@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dalian Grullon
 ======================================================================================================================================
 
-Full Stack Developer
+Software Engineer
 -----------------
 
-Currently working as a Software Engineer at Liberty Mutual Insurance. I am also studying Computer Science at Indiana University at the same time.
+Currently working at Liberty Mutual Insurance focusing on backend systems and studying Computer Science at Indiana University.
 
-* 🌍  I'm based in Whitestown, IN
+* 🌍  I'm based in Greater Indianapolis Area
 * 🖥️  See my portfolio at [this website](https://daliangrullon.github.io/my-portfolio/)
 * ✉️  You can contact me at [my email](mailto:dalian.business@aol.com)
 * 🤝  I'm open to collaborating on any projects!
